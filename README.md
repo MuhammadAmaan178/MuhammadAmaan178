@@ -1,7 +1,5 @@
 # Hi, I'm Muhammad Amaan 👋
 
-![Dynamic Text](./dynamic-text.gif)
-
 I'm currently a **BSAI student** at **Dawood University**, exploring the exciting world of Artificial Intelligence and programming. I have a strong foundation in **C++** and **Python**, and I am particularly passionate about creating interactive applications with **Streamlit**. I'm also diving into **Machine Learning** and expanding my knowledge of ML models.
 
 ## 🚀 Skills & Technologies:
